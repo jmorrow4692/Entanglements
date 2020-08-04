@@ -12,16 +12,13 @@ Finally, to re-do the computations from the manuscript, follow the instructions 
 
 In this Github repository, there are 3 folders:
 
-AuxillaryFiles 
-
+  AuxillaryFiles 
     -- This contains all the auxillary files and functions needed to perform our computations. Within the folder, there are 4 subfolders referred to by their              reference ID in the paper. In these subfolders, we have collected data and/or functions coming from these works, which we will also use.
 
-Computations
-
+  Computations
     -- This contains 4 subfolders, which break down our computations. 
 
-LoadableFiles
-
+  LoadableFiles
     -- This contains all of the data we collected during our computations and records them in associative arrays.
     
 Finally, for an example of how to utilize the data, see the .m file, UsingData.m.
