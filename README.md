@@ -8,7 +8,7 @@ To get started, one needs to download the .zip file EntanglementGroups.zip.
 
 From here, one should unzip EntanglementGroups.zip in their desired directory. This .zip file contains all of the folders and files in this Github repository.
 
-Finally, to re-do the computations from the manuscript, follow the instructions in Commands.txt.
+To re-do the computations from the manuscript, follow the instructions in Commands.txt.
 
 In this Github repository, there are 3 folders:
 
