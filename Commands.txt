@@ -1,0 +1,11 @@
+Copy the folder EntanglementGroups into your home drive and enter:
+
+load "~/EntanglementGroups/Computations/1ComputeSubgroups/Compute_Subgroups_Two_Primes.m";
+
+load "~/EntanglementGroups/Computations/2ComputeMaximalEntanglementGroups/Entanglement_Groups_TwoPrimes.m";
+
+load "~/EntanglementGroups/Computations/3ComputejMapsAndModels/jmaps_and_models.m";
+
+load "~/EntanglementGroups/Computations/4SanityCheck/SanityCheck.m";
+
+
