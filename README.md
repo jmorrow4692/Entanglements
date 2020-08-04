@@ -13,8 +13,7 @@ Finally, to re-do the computations from the manuscript, follow the instructions 
 In this Github repository, there are 3 folders:
 
   - AuxillaryFiles 
-  
-    -- This contains all the auxillary files and functions needed to perform our computations. Within the folder, there are 4 subfolders referred to by their              reference ID in the paper. In these subfolders, we have collected data and/or functions coming from these works, which we will also use.
+        This contains all the auxillary files and functions needed to perform our computations. Within the folder, there are 4 subfolders referred to by their               reference ID in the paper. In these subfolders, we have collected data and/or functions coming from these works, which we will also use.
 
   - Computations
   
