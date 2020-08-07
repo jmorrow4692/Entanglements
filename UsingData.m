@@ -18,7 +18,7 @@ load "MaxCleanWithModels.m";
 // Note that there are a total of 9 keys, which is the statement of our main result.
 
 // To access a particular key e.g., <[ 2, 7 ], [ C3, C3 ]> do
-// This will give 3 records, corresponding to the 3 entries in the (2,7)-entanglements of Z/3Z-type table in Section 8.
+// This will give 3 records, corresponding to the 3 entries in the (2,7)-entanglements of type Z/3Z table in Section 8.
 MaxCleanGenus0WithModels[<[ 2, 7 ], [ "C3", "C3" ]>];
 
 // To get one's hands on a particular record simply do
